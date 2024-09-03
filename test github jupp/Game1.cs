@@ -10,6 +10,7 @@ namespace test_github_jupp
         private SpriteBatch _spriteBatch;
 
         int feature1;
+        int feature2;
 
         public Game1()
         {
