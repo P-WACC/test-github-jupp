@@ -13,6 +13,7 @@ namespace test_github_jupp
         int feature2;
         int feature3;
 
+        //update playerJump
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
