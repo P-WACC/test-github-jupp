@@ -11,6 +11,7 @@ namespace test_github_jupp
 
         int feature1;
         int feature2;
+        int feature3;
 
         public Game1()
         {
